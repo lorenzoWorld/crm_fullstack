@@ -1,0 +1,21 @@
+/* contatti.component.css */
+
+.contact-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.contact-item {
+  margin-bottom: 20px;
+  padding: 15px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.contact-item:hover {
+  background-color: #f5f5f5;
+}
+
